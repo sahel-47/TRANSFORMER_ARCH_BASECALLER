@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-s -Wl,--gc-sections -Wl,--dependency-file=CMakeFiles/MATRIX_INNER_ENGINE.dir/link.d  -o MATRIX_INNER_ENGINE.cpython-312-x86_64-linux-gnu.so CMakeFiles/MATRIX_INNER_ENGINE.dir/constructor.cpp.o  libnanobind-static.a

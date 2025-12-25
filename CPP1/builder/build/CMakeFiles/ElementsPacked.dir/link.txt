@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-s -Wl,--gc-sections -Wl,--dependency-file=CMakeFiles/ElementsPacked.dir/link.d  -o ElementsPacked.cpython-312-x86_64-linux-gnu.so CMakeFiles/ElementsPacked.dir/constructor.cpp.o  libnanobind-static.a
